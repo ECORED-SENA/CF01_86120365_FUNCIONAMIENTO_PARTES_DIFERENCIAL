@@ -3,12 +3,19 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 20%
-    right: 10%
+    right: 75%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 20%
+    right: 10%
+    width: 30%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 65%
+    right: 73%
+    
 
 @keyframes float1
   0%
@@ -31,4 +38,56 @@
 
 figcaption
   font-weight: normal
- 
+
+.bg
+  &-intro
+    background-image: url(../assets/curso/intro/bg1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-intro2  
+    background-color: #DDD3C2
+  &-t1-1 
+    background-image: url(../assets/curso/tema1/bg1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-t2-2
+    background-color: #F2EEE7
+  &-t2-3 
+    background-color: #FCF7D5
+    max-height: 350px
+    @media (max-width: 991.98px)
+        max-height: none !important
+
+  &-t3-1 
+    background-color: #FCF7D5
+  &-t3-2
+    background-color: #DDD3C2 !important
+  &-t3-3 
+    background-color: #F9EEAB
+  &-subtitulo
+    background-image: url(../assets/curso/tema3/bgIcon1.svg)
+    background-repeat: no-repeat
+    background-position: left
+    width: 100%
+    
+
+.lista-ul--color li > i:first-of-type 
+  color: #A6931F !important;
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #F8A230
+
+.acordion__accion__btn--a
+  background-color: #EEAC3A !important
+
+.acordion__activo
+  background-color: #BDD9FD     !important
+
+
+
+
+
+    
