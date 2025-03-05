@@ -17,7 +17,7 @@
           img(src="@/assets/curso/tema3/img1.png", alt="alt")
 
     separador
-    .titulo-segundo.color-primario
+    #t_3_1.titulo-segundo.color-primario
       h2 3.1 El mecanismo diferencial y su función en la transmisión de potencia
 
     p El mecanismo del diferencial consta de dos conjuntos principales que trabajan en conjunto para distribuir la fuerza motriz de manera eficiente:
@@ -107,7 +107,7 @@
                   p Este mecanismo es esencial para la conducción segura y eficiente, ya que evita el desgaste excesivo de los neumáticos y mejora la estabilidad del vehículo en curvas y maniobras.
 
     separador
-    .titulo-segundo.color-primario
+    #t_3_2.titulo-segundo.color-primario
       h2 3.2 Otras partes del diferencial y su importancia en el sistema de transmisión
 
     p Además del mecanismo diferencial, existen otros componentes esenciales que garantizan su correcto funcionamiento.

@@ -70,8 +70,22 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Partes del diferencial estándar y su funcionamiento',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo:
+              'El mecanismo diferencial y su función en la transmisión de potencia',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo:
+              'Otras partes del diferencial y su importancia en el sistema de transmisión',
+            hash: 't_3_2',
+          },
+        ],
       },
     ],
     subMenu: [
