@@ -39,12 +39,12 @@
               li.d-flex
                 i.fas.fa-circle-check
                 |
-                p.mb-0 #[b Engranaje de mando final:] Su función es multiplicar el par motor y modificar la dirección del movimiento, pasando de longitudinal a transversal. Este conjunto está conformado por un piñón impulsor y una corona, que trabajan en sincronía para transmitir la potencia a las ruedas.
+                p.mb-0 #[b Engranaje de mando final:] su función es multiplicar el par motor y modificar la dirección del movimiento, pasando de longitudinal a transversal. Este conjunto está conformado por un piñón impulsor y una corona, que trabajan en sincronía para transmitir la potencia a las ruedas.
 
               li.d-flex
                 i.fas.fa-circle-check
                 |
-                p.mb-0 #[b Conjunto diferencial:] Compuesto por piñones cónicos planetarios y satélites, este mecanismo permite que las ruedas motrices giren a diferentes velocidades cuando el vehículo se desplaza por una curva
+                p.mb-0 #[b Conjunto diferencial:] compuesto por piñones cónicos planetarios y satélites, este mecanismo permite que las ruedas motrices giren a diferentes velocidades cuando el vehículo se desplaza por una curva.
 
     .row.bg-t1-1(data-aos="fade-down")
       .col-12

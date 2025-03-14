@@ -24,7 +24,7 @@
                 img(src="@/assets/curso/tema1/img1.png", alt="Diferencial de vehículo con corte transversal, mostrando su engranaje interno y componentes mecánicos.", style="width: 100%").m-auto
               
             .col-sm--12.col-md-12.col-lg-5.mb-4.mb-lg-0.p-5.bg-t2-3
-              p Sin este mecanismo, las ruedas experimentarían deslizamiento, lo que generaría inestabilidad en la conducción y un desgaste prematuro de las llantas. Esto se debe a que, al girar, las ruedas recorren trayectorias de distinta longitud: la rueda exterior debe cubrir una mayor distancia y, por lo tanto, necesita girar más rápido que la interior.
+              p Cuando un vehículo avanza en línea recta, ambas ruedas giran a la misma velocidad. Sin embargo, al tomar una curva, la rueda exterior debe recorrer una mayor distancia en el mismo tiempo, por lo que aumenta su velocidad, mientras que la rueda interior reduce su giro.
 
               .titulo-sexto.color-acento-contenido
                 h5 Figura 2.
@@ -33,7 +33,7 @@
               .col-lg-12
                 img(src="@/assets/curso/tema1/img2.png", alt="Figura del diferencial que muestra la diferencia de recorrido entre la rueda interna y externa en una curva. Destaca el conjunto diferencial, planetario, piñón satélite y corona con piñón impulsor, explicando la distribución del movimiento.", style="width: 100%").m-auto
 
-    .row.mt-4.justify-content-center(data-aos="fade-down")
+    .row.justify-content-center(data-aos="fade-down")
       .col-10
         .tarjeta.p-3.mt-4.bg-intro2
           .row.justify-content-around.align-items-center
