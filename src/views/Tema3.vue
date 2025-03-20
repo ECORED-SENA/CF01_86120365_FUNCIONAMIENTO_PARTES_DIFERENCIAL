@@ -62,7 +62,7 @@
                   h5 Figura 7.
                   span Mecanismo del diferencial 
 
-                img(src="@/assets/curso/tema3/img2.png", alt="Figura del diferencial con corona, piñones y semiejes, que distribuyen la potencia a las ruedas.", style="width: 100%").m-auto
+                img(src="@/assets/curso/tema3/img4.png", alt="Figura del diferencial con corona, piñones y semiejes, que distribuyen la potencia a las ruedas.", style="width: 100%").m-auto
                 figcaption.mt-2.bg-t2-2 Nota.  Ribbens (2003).
 
     p.mt-4 #[b El funcionamiento del diferencial se puede explicar de la siguiente manera:]

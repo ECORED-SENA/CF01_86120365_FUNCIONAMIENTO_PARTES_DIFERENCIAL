@@ -119,7 +119,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/86120365_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -281,13 +281,14 @@ export default {
       autores: [
         {
           nombre: 'Carlos Edwin Abello Rubiano',
-          cargo: 'Experto temáticol',
+          cargo: 'Experto temático',
           centro: 'Regional Quindío - Centro de Comercio y Turismo',
         },
         {
           nombre: 'Paola Alexandra Moya',
           cargo: 'Evaluadora Instruccional',
-          centro: 'Regional Quindío - Centro de Comercio y Turismo',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
