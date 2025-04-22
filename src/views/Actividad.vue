@@ -23,6 +23,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Evaluar  sobre la función, componentes y tipos de diferenciales en vehículos.',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!..',
+      titulo_reprobado: 'VUELVA A INTENTARLO..',
       preguntas: [
         {
           id: 1,
